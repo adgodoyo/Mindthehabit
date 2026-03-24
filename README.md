@@ -305,18 +305,13 @@ hA/Bits uses causal inference techniques:
 
 <div align="center">
 
-### Dashboard
-![Dashboard](screenshots/Permissions.gif)
-*Animated behavior score gauge and daily metric cards*
+<img src="screenshots/Permissions.gif" width="280" alt="Permissions & Dashboard">
+<img src="screenshots/timeline.gif" width="280" alt="Calendar Timeline">
+<img src="screenshots/futurelens.jpeg" width="280" alt="FutureLens Prediction">
 
-### Calendar Timeline
-![Timeline](screenshots/timeline.gif)
-*30-day calendar view with daily behavioral metrics*
+**Permissions & Setup** &nbsp;&nbsp;&nbsp;&nbsp; **30-Day Timeline** &nbsp;&nbsp;&nbsp;&nbsp; **What-If Analysis (FutureLens)**
 
-### Prediction Center
-![Prediction](screenshots/futurelens.jpeg)
-*What-if analysis*
-
+*Real app screenshots showing behavioral cost tracking and A/B testing simulation*
 
 </div>
 
