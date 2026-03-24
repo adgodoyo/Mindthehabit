@@ -1,0 +1,6 @@
+﻿com.samsung.shealth.program.sleep_coaching.session,6311013,4
+create_sh_ver,mission_count,is_report_read,start_date,survey,modify_sh_ver,update_time,create_time,data_version,type,deviceuuid,contents_version,pkg_name,end_date,datauuid
+,65,1,2022-04-28 00:00:00.000,,,2023-09-07 11:09:18.808,2022-04-28 19:27:49.390,2,1,yJFPNrhfsu,1,com.sec.android.app.shealth,2022-05-25 00:00:00.000,11377974-f3dd-4327-b06d-d060bf12f56e,
+,126,1,2023-12-30 00:00:00.000,adf38e21-3131-4d28-a8d2-ad4dc20b967a.survey.json,62620030,2024-03-08 19:01:39.586,2023-12-29 21:20:06.437,3,3,AxW6kiZDC9,3,com.sec.android.app.shealth,2024-01-19 00:00:00.000,adf38e21-3131-4d28-a8d2-ad4dc20b967a,
+62620030,105,1,2024-03-10 00:00:00.000,cdb9bcb4-3c21-4284-ba60-4d5fd65330e5.survey.json,62660010,2024-04-30 10:40:44.618,2024-03-09 11:02:07.829,3,1,AxW6kiZDC9,3,com.sec.android.app.shealth,2024-03-30 00:00:00.000,cdb9bcb4-3c21-4284-ba60-4d5fd65330e5,
+63030110,105,0,2025-07-21 00:00:00.000,8a38a28b-d308-4b15-83f2-9786a0ca3367.survey.json,63030110,2025-07-20 13:45:20.084,2025-07-20 13:45:20.084,3,1,5sl+lZ1Pby,3,com.sec.android.app.shealth,2025-08-10 00:00:00.000,8a38a28b-d308-4b15-83f2-9786a0ca3367,

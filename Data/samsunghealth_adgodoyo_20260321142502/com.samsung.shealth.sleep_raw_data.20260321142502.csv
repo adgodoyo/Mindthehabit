@@ -1,0 +1,6 @@
+﻿com.samsung.shealth.sleep_raw_data,6311013,2
+create_sh_ver,modify_sh_ver,update_time,create_time,sleep_uuid,data,version,deviceuuid,pkg_name,datauuid
+63100571,63100571,2026-03-16 06:55:21.469,2026-03-16 06:55:21.469,8064d9da-e742-438b-9440-a7414ffccee7,7b846ee9-759f-49b3-9677-f5697115efb4.data.json,2,jkrxtcKrsf,com.sec.android.app.shealth,7b846ee9-759f-49b3-9677-f5697115efb4,
+63100571,63100571,2026-03-18 06:18:56.341,2026-03-18 06:18:56.341,e2bca6b1-7c6a-4263-bfc5-697e20464e6f,998ca1a7-7473-4a5c-867b-b5dea946c6a5.data.json,2,jkrxtcKrsf,com.sec.android.app.shealth,998ca1a7-7473-4a5c-867b-b5dea946c6a5,
+63110011,63110011,2026-03-20 08:08:21.641,2026-03-20 08:08:21.641,a35c9625-153c-4a54-8008-13e96ce3c320,814c9a49-5542-48bd-bce7-abfc351d69df.data.json,2,jkrxtcKrsf,com.sec.android.app.shealth,814c9a49-5542-48bd-bce7-abfc351d69df,
+63110011,63110011,2026-03-21 07:06:38.844,2026-03-21 07:06:38.844,ba03e2f0-6c81-434a-8518-c2ac4f75d479,ed569058-6a3d-4f05-b22e-f7651f663456.data.json,2,jkrxtcKrsf,com.sec.android.app.shealth,ed569058-6a3d-4f05-b22e-f7651f663456,

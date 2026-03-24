@@ -1,0 +1,1 @@
+{"heart_rate":{"is_valid":true,"type":1,"max_hr_custom":193,"max_hr_auto":190,"at":153,"ant":165,"rhr":59},"heart_rate_zone":{"is_valid":false},"max_hr":{"is_valid":true,"is_updated":false},"percent_of_vo2_max":{"is_valid":true,"prev_vo2_max":55.69,"is_measured":1},"sampling_rate":10000,"sweat_loss":{"is_valid":false},"vo2_max":{"is_valid":false}}

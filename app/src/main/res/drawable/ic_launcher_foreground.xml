@@ -1,0 +1,33 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Stylized 'h' -->
+    <path
+        android:fillColor="#8E8FFA"
+        android:pathData="M32,40 L32,70 L38,70 L38,52 C38,48 40,46 44,46 C48,46 50,48 50,52 L50,70 L56,70 L56,50 C56,42 52,38 44,38 C39,38 35,40 32,44 L32,40 Z" />
+
+    <!-- Stylized 'A' -->
+    <path
+        android:fillColor="#2D2D2D"
+        android:pathData="M62,70 L68,40 L74,70 L68,70 L67,65 L63,65 L62,70 Z M64,60 L66,60 L65,55 Z" />
+
+    <!-- The brand '/' separator -->
+    <path
+        android:fillColor="#A1EEBD"
+        android:pathData="M60,35 L54,75 L58,75 L64,35 Z" />
+
+    <!-- 'Bits' represented as data points -->
+    <path
+        android:fillColor="#F6B3D1"
+        android:pathData="M35,78 A3,3 0,1,1 34.99,78 Z" />
+    <path
+        android:fillColor="#8E8FFA"
+        android:pathData="M45,80 A3,3 0,1,1 44.99,80 Z" />
+    <path
+        android:fillColor="#A1EEBD"
+        android:pathData="M55,77 A3,3 0,1,1 54.99,77 Z" />
+</vector>
